@@ -4,7 +4,7 @@
 
 #### Feature:
 
-- signature can hardly be erased while various modifications(rotation, noise, etc.) applying to encrypted image
+- signature can hardly be erased while various modifications(rotation, noise, etc.) are being applied to encrypted image
 
 
 #### Screenshots
