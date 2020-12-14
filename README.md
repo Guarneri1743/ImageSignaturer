@@ -4,16 +4,16 @@
 
 - Original Image
 
-<img src="/screenshots/original_image.bmp" width = "512" height = "512" alt="Early-Z" align=center />
+<img src="/screenshots/original_image.bmp" width = "512" height = "512" alt="img" align=center />
 
 - Key
 
-<img src="/screenshots/key.bmp" width = "512" height = "512" alt="Early-Z" align=center />
+<img src="/screenshots/key.bmp" width = "512" height = "512" alt="img" align=center />
 
 - Signed Image
 
-<img src="/screenshots/encrypted_image.bmp" width = "512" height = "512" alt="Early-Z" align=center />
+<img src="/screenshots/encrypted_image.bmp" width = "512" height = "512" alt="img" align=center />
 
 - Decrypted Signature
 
-<img src="/screenshots/decrypted_image.bmp" width = "512" height = "512" alt="Early-Z" align=center />
+<img src="/screenshots/decrypted_image.bmp" width = "512" height = "512" alt="img" align=center />
