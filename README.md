@@ -1,6 +1,13 @@
 # ImageSignaturer
 
-#### An image signaturer based on frequency domain signature
+#### An image signaturer based on frequency domain signature for Image owner identification
+
+#### Feature:
+
+- signature can hardly be erased while various modifications(rotation, noise, etc.) applying to encrypted image
+
+
+#### Screenshots
 
 - Original Image
 
@@ -12,8 +19,8 @@
 
 - Signed Image
 
-<img src="/screenshots/encrypted_image.bmp" width = "512" height = "512" alt="img" align=center />
+<img src="/screenshots/en.bmp" width = "512" height = "512" alt="img" align=center />
 
 - Decrypted Signature
 
-<img src="/screenshots/decrypted_image.bmp" width = "512" height = "512" alt="img" align=center />
+<img src="/screenshots/de.bmp" width = "512" height = "512" alt="img" align=center />

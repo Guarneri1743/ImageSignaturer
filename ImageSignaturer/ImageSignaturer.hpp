@@ -268,7 +268,7 @@ namespace ImageSignaturer
         int i = 0;
         int j = 0;
 
-        D0 = 512;
+        D0 = max(fft_width, fft_height); // keep all signals
         for (i = 0; i < fft_height; i++)
         {
             for (j = 0; j < fft_width; j++)
