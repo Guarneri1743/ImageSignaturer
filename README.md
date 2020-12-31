@@ -1,13 +1,12 @@
 # ImageSignaturer
 
-#### An image signaturer based on frequency domain signature for Image owner identification
 
 #### Feature:
 
-- signature can hardly be erased while various modifications(rotation, noise, etc.) are being applied to encrypted image
+- signature can hardly be erased while various modifications(rotation, noise, etc.) are being applied to an encrypted image
 
 
-#### Screenshots
+#### Example
 
 - Original Image
 
